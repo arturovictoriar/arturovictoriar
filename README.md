@@ -4,13 +4,13 @@
 [2]: https://twitter.com/arturovictoriar
 [3]: http://www.github.com/arturovictoriar
 
-I am a Mechatronics Engineer focused on developing software to improve people's quality of life using tools such as Python, Javascript, and C.  My passion for Artificial Intelligence have made me specialize in Deep Learning and have implemented some machine learning algorithms that you can find in [Machine_learning_folder](https://github.com/arturovictoriar/Machine_Learning).
+I am a Mechatronics Engineer focused on developing software to improve people's quality of life using tools such as Python, Javascript and C/C++. I'm passionate about machine Learning so you can also find some projects like object identification and music creation in my github.
 
 ## More about me:
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning efficiency Algorithms
-- 👯 I’m looking to collaborate on Machine Learning project
-- 💬 Ask me about IoT or Machine Learning, I could help you!
+- 👯 I'm looking to collaborate on Machine Learning and Web development projects.
+- 💬 Ask me about IoT, Algorithms or Machine Learning, I could help you!
 
 ## Technologies I know:
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />

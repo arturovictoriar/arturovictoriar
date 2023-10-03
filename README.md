@@ -4,7 +4,7 @@
 [2]: https://twitter.com/arturovictoriar
 [3]: http://www.github.com/arturovictoriar
 
-I am a Mechatronics Engineer focused on developing software to improve people's quality of life using tools such as Python, Javascript and C/C++. I'm passionate about machine Learning so you can also find some projects like object identification and music creation in my github.
+I am Fullstack Software Engineer specialized in Web development and Data processing. My tech stack is Python, Javascript and C/C++. I'm passionate about machine Learning so you can also find some projects like object identification and music creation in my github.
 
 ## More about me:
 - 🔭 I’m currently working on Machine Learning
